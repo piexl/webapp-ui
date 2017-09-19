@@ -1,0 +1,12 @@
+
+#node
+npm-debug.log
+node_modules
+
+#mac
+.DS_Store
+
+#makerEditor
+.Archive
+.md_configs.data
+.me_configs.data

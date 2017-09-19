@@ -1,0 +1,21 @@
+{
+  "name": "dragon-ui",
+  "version": "0.0.1",
+  "description": "a webapp ui",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --optimize-minimize",
+    "dev": "webpack-dev-server --config webpack.dev.config.js",
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "response"
+  ],
+  "author": "kermit",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
