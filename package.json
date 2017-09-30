@@ -16,6 +16,20 @@
   "author": "kermit",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.6.0"
+    "arr-diff": "^4.0.0",
+    "array-unique": "^0.3.2",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "braces": "^2.2.2",
+    "clean-webpack-plugin": "^0.1.16",
+    "expand-brackets": "^2.1.4",
+    "extglob": "^2.0.2",
+    "filename-regex": "^2.0.1",
+    "is-buffer": "^1.1.5",
+    "is-extglob": "^2.1.1",
+    "isarray": "^2.0.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
   }
 }
